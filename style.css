@@ -23,7 +23,8 @@ body, html {
   justify-content: center;
   font-size: calc(20px + 2vmin);
   font-weight: bolder;
-  color: yellow;
+  color: black;
+  text-shadow: 2px 2px #FFff00;
 }
 
 .phone {
